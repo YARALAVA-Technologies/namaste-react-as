@@ -1,0 +1,18 @@
+17
+32C:\namaste-react-as\package.json133450134612816092 0
+37C:\namaste-react-as\package-lock.json133449360632819154 0
+42C:\namaste-react-as\dist\index.7826abd7.js133451011039778328 0
+26C:\namaste-react-as\App.js133451011067816743 0
+30C:\namaste-react-as\.gitignore133451013435401579 0
+24C:\namaste-react-as\dist133451011039898263 1
+29C:\namaste-react-as\README.md133449306155308431 0
+29C:\namaste-react-as\index.css133446017355281649 0
+30C:\namaste-react-as\index.html133451010990545524 0
+42C:\namaste-react-as\dist\index.5a23e354.js133449389572690593 0
+46C:\namaste-react-as\dist\index.5a23e354.js.map133449389572930454 0
+46C:\namaste-react-as\dist\index.7826abd7.js.map133451011039868302 0
+43C:\namaste-react-as\dist\index.8d566482.css133449389572660603 0
+47C:\namaste-react-as\dist\index.8d566482.css.map133449389572760550 0
+43C:\namaste-react-as\dist\index.9e4c6fd2.css133451011038648986 0
+47C:\namaste-react-as\dist\index.9e4c6fd2.css.map133451011038718953 0
+35C:\namaste-react-as\dist\index.html133451011038629004 0
